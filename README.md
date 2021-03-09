@@ -1,16 +1,16 @@
-### Hi there 👋
+Hello, World!
+======
 
-<!--
-**JohnLyu94/JohnLyu94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:technologist: My name is "Yakkai". I am from China and living in Japan.
 
-Here are some ideas to get you started:
+:school: I am a Ph.D candidate at UTokyo :japan:. My research interests lie primarily in {[(*Travel Behavior*) **Mobility**] ***Spatial Data Mining***}.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Git Status
+------
+
+[![Suxing's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnLyu94&count_private=true&show_icons=true&theme=nord)](https://github.com/JohnLyu94/github-readme-stats)
+
+Skills & Tools
+-------
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnLyu94)](https://github.com/JohnLyu94/github-readme-stats)
