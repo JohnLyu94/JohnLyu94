@@ -13,4 +13,4 @@ Git Status
 Skills & Tools
 -------
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnLyu94)](https://github.com/JohnLyu94/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnLyu94&layout=compact&theme=nord)](https://github.com/JohnLyu94/github-readme-stats)
