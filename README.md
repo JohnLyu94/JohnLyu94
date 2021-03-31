@@ -3,7 +3,7 @@ Hello, World!
 
 :technologist: My name is "Yakkai". I am from China and living in Japan.
 
-:school: I am a Ph.D candidate at UTokyo :japan:. My research interests lie primarily in {[(*Travel Behavior*) **Mobility**] ***Spatial Data Mining***}.
+:school: I am a Ph.D candidate at UTokyo :japan:. My research interests lie primarily in {[{***Travel Behavior***} $\in$ **Mobility**] *Spatial Data Mining*}.
 
 Git Status
 ------
