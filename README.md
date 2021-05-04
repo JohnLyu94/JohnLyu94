@@ -10,9 +10,10 @@ Hello, World!
 - **Gender**: Male
 - **Class**: Ph.D candidate
 - **Background**: Researcher ~(*Elite*) Stiches~
+  - *Domain*: {[{***Travel Behavior***} **Mobility Research**] *Spatial Data Mining*}
 - **Description**: 
   - *Appearance*: Short black hair
-  - *High Ability*: {[{***Travel Behavior***} **Mobility Research**] *Spatial Data Mining*}
+  - *High Ability*: Coding, reading, learning
   - *Low Ability*: Cook, long-distance race
   - *Talent*: Pending
   - *Values*: Thirst for knowledge
