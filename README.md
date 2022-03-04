@@ -3,7 +3,7 @@ Hello, World!
 
 ## Who am I?
 
-***Yakkai (Lv.27)***
+***Yakkai (Lv.28)***
 
 ------
 - **Race**: Asian
